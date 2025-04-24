@@ -44,7 +44,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$_SESSION['user'
       <center>  <table class="table table-bordered" style="font-family: Verdana">
                 
                 <tr>
-                 <td style="width:3%;"><br><br><img src="./images/Logo-T.gif" width="50%"> </td>
+                 <td style="width:3%;"><br><br><img src="./images/download.jpg" width="50%"> </td>
                  <td style="width:8%;"><center><font style="font-family:Arial Black; font-size:20px;">
                      <br><br>
                     Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV)

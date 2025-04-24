@@ -26,7 +26,7 @@ $id=$_SESSION['user'];
             <div class="container-fluid">    
                 <div class="row">
                   <div class="col-sm-12">
-                        <img src="images/cutm.jpg" width="100%" style="box-shadow: 1px 5px 14px #999999; "></img>
+                      <img src="images/logo1.jpg" style="width: 100%; max-width: 100%; height: 25% ; display: block; margin: 0 auto; box-shadow: 1px 5px 14px #999999;">
                   </div>
                  </div>    
              </div><br>

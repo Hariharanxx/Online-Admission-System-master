@@ -36,7 +36,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='$getid'");
             <div class="container-fluid">    
                 <div class="row">
                   <div class="col-sm-12">
-                        <img src="images/cutm.jpg" width="100%" style="box-shadow: 1px 5px 14px #999999; "></img>
+                      <img src="images/logo1.jpg" style="width: 100%; max-width: 100%; height: 25% ; display: block; margin: 0 auto; box-shadow: 1px 5px 14px #999999;">
                   </div>
                  </div>    
              </div><br>
@@ -52,18 +52,19 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='$getid'");
       <center>  <table class="table table-bordered" style="font-family: Verdana">
                 
                 <tr>
-                 <td style="width:3%;"><img src="./images/Logo-T.gif" width="50%"> </td>
+                 <td style="width:3%;"><img src="./images/download.jpg" width="50%"> </td>
                  <td style="width:8%;"><center><font style="font-family:Arial Black; font-size:20px;">
-                    CENTURION UNIVERSITY OF TECHNOLOGY AND MANAGEMENT, BHUBANESWAR - 752050, ODISHA</font></center>
+                    Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV)
+Deemed university in Kanchipuram, Tamil Nadu</font></center>
                 
                 <center><font style="font-family:Verdana; font-size:18px;">
-                    Phone : (0674)2492496, Fax : (0674)2490480
+                    CUEE ADMIT CARD (2025-2026)</font></center>
                     </font></center>
                 
                 <br>
                 <br>
                 <center><font style="font-family:Arial Black; font-size:20px;">
-                    ADMISSIONS (2016-17)</font></center>
+                    </font></center>
                 </td>
                     <td colspan="2" width="3%" >
                    <?php

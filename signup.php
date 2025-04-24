@@ -132,7 +132,7 @@ error_reporting(0);
             <div class="container-fluid">    
                 <div class="row">
                   <div class="col-sm-12">
-                        <img src="images/cutm.jpg" width="100%" style="box-shadow: 1px 5px 14px #999999; "></img>
+  <img src="images/logo1.jpg" style="width: 100%; max-width: 100%; height: 25% ; display: block; margin: 0 auto; box-shadow: 1px 5px 14px #999999;">
                   </div>
                  </div>    
              </div>
@@ -144,7 +144,7 @@ error_reporting(0);
             <div id="dleft">
                 <input type="hidden" id="stid" name="stid" value="">
                 <input type="hidden" id="stpw" name="stpw" value="">
-            <img src="images/signup1.jpg" style="height:470px;width:550px;border-top-left-radius:15px;border-bottom-left-radius:15px;" ></img>
+            <img src="images/img.avif" style="height:470px;width:550px;border-top-left-radius:15px;border-bottom-left-radius:15px;" ></img>
             </div>
              <div id="drig">
                  <br>

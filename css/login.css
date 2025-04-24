@@ -13,15 +13,16 @@ body
      box-shadow: 0px 0px 14px #999999; 
 }
 
-#adivtop
-{
-    background-image:url(../images/bg1.jpg); 
+#adivtop {
+    background-image: url(../images/scs.jpg); 
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; /* Ensures the image covers the entire div */
     width: 1000px;
-    height:480px;
-    border-radius:5px;
-    display:block;
-    margin-left:170px;
-     box-shadow: 0px 0px 14px #999999; 
+    height: 480px;
+    border-radius: 5px;
+    display: block;
+    margin-left: 170px;
+    box-shadow: 0px 0px 14px #999999; 
 }
 
 #divbot

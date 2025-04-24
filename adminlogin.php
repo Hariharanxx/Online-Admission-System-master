@@ -47,7 +47,7 @@ if(isset($_REQUEST["a_sub"]))
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link type="text/css" rel="stylesheet" href="css/login.css"></link>
+        <link type="text/css" rel="stylesheet" href="css/login.css?v=<?php echo time(); ?>"></link>
         <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
          <link rel="stylesheet" href="bootstrap/bootstrap-theme.min.css">
        <script src="bootstrap/jquery.min.js"></script>
